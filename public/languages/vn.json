@@ -1,43 +1,43 @@
 {
     "APP": {
-        "TITLE": "Machine Learning for Kids",
+        "TITLE": "Học máy cho trẻ em",
 
-        "BACK": "Back",
-        "BACKTOPROJECT": "&lt; Back to project",
-        "BACKTOMODEL": "&lt; Back to model",
-        "ERROR": "Error:",
-        "WARNING": "Warning:",
-        "INFO": "Info:",
+        "BACK": "Quay lại",
+        "BACKTOPROJECT": "&lt; Quay lại dự án",
+        "BACKTOMODEL": "&lt; Quay lại mô hình",
+        "ERROR": "Lỗi:",
+        "WARNING": "Cảnh báo:",
+        "INFO": "Thông tin:",
 
-        "ADD": "Add",
-        "CANCEL": "Cancel",
-        "DELETE": "Delete",
-        "EDIT": "Edit",
-        "TEST": "Test",
-        "RESET": "Reset",
+        "ADD": "Thêm",
+        "CANCEL": "Hủy bỏ",
+        "DELETE": "Xóa",
+        "EDIT": "Soạn thảo",
+        "TEST": "Kiểm tra",
+        "RESET": "Thiết lập lại",
 
-        "ABOUT": "About",
-        "TEACHER": "Teacher",
-        "PROJECTS": "Projects",
+        "ABOUT": "Giới thiệu",
+        "TEACHER": "Thầy giáo",
+        "PROJECTS": "Dự án",
         "WORKSHEETS": "Worksheets",
-        "NEWS": "News",
-        "HELP": "Help",
-        "LOGIN": "Log In",
-        "LOGOUT": "Log Out",
+        "NEWS": "Tin tức",
+        "HELP": "Trợ giúp",
+        "LOGIN": "Đăng nhập",
+        "LOGOUT": "Đăng xuất",
 
         "BETA": "Beta",
-        "INCOMPLETE": "Incomplete!"
+        "INCOMPLETE": "Chưa hoàn thành!"
     },
     "ABOUT": {
-        "TITLE": "Machine Learning for Kids",
-        "IN6SECS": "In 6 seconds...",
-        "IN20MINS": "In 20 minutes...",
+        "TITLE": "Học máy cho trẻ em",
+        "IN6SECS": "Trong 6 giây...",
+        "IN20MINS": "Trong 20 phút...",
         "WHAT": {
-            "TITLE": "What?",
+            "TITLE": "Cái gì?",
             "BODY" : "This free tool introduces machine learning by providing hands-on experiences for training machine learning systems and building things with them. <br/><br/>It provides an easy-to-use guided environment for training machine learning models to recognise text, numbers, images, or sounds. <br/><br/>This builds on existing efforts to introduce and teach coding to children, by adding these models to educational coding platforms <a href='https://scratch.mit.edu/about' target='_blank'>Scratch</a> and <a href='http://appinventor.mit.edu/' target='_blank'>App Inventor</a>, and helping children create projects and build games with the machine learning models they train. <br/><br/>The tool was first made available in 2017, and is now being <a href='https://wakelet.com/wake/4d3680cb-2a11-49ab-9180-fcfeced48393' target='_blank'>used by thousands of schools, code clubs, and families around the world</a>. <br/><br/>To learn more, look at:"
         },
         "WHY": {
-            "TITLE": "Why?",
+            "TITLE": "Tại sao?",
             "BODY": "Machine learning is all around us. We all use machine learning systems every day - such as spam filters, recommendation engines, language translation services, chatbots and digital assistants, search engines, and fraud detection systems.<br/><br/>It will soon be normal for machine learning systems to drive our cars, and help doctors to diagnose and treat our illnesses. <br/><br/>It's important that kids are aware of how our world works. The best way to understand the capabilities and implications is to be able to build with this technology for themselves. <br/><br/>To learn more, read: <a target='_blank' class='btn btn-primary' href='http://dalelane.co.uk/blog/?p=3513'>'Introducing Machine Learning to kids'</a>"
         },
         "TECH": {
@@ -50,11 +50,11 @@
             "BODY": "Machine Learning for Kids is a useful tool for introducing children to how ML systems are trained, how they are used, and some of the real-world implications of AI applications. <br/><br/>For additional teaching and learning resources, including teaching the internals of ML systems, please see: "
         }
     },
-    "NEWS": {
-        "TITLE": "News",
+    "TIN TỨC": {
+        "TITLE": "Tin tức",
         "UPDATES": {
-            "TITLE": "News & Updates",
-            "DESCRIPTION": "News and updates from @MLforKids"
+            "TITLE": "Tin tức & Cập nhật",
+            "DESCRIPTION": "Tin tức & cập nhật từ @MLforKids"
         },
         "MENTIONS": {
             "TITLE": "Mentions & Media",
@@ -62,7 +62,7 @@
         }
     },
     "LINKS": {
-        "TITLE": "Educational AI resources for children",
+        "TITLE": "Các tài nguyên giáo dục AI cho trẻ en",
         "INTRO": "This page is a list of further tools and resources for explaining artificial intelligence to children.",
         "ECRAFT2LEARN": {
             "BODY1": "<a href='http://users.ox.ac.uk/~oucs0030/' target='_blank'>Ken Kahn</a> has created resources to allow beginners to create AI programs in Snap! (a visual programming environment similar to Scratch).",
@@ -102,8 +102,8 @@
         }
     },
     "ERRORS": {
-        "PAGENOTFOUND": "Page not found",
-        "NOTLOGGEDIN": "Not logged in",
+        "PAGENOTFOUND": "Trang không tìm thấy",
+        "NOTLOGGEDIN": "Chưa đăng nhập",
 
         "MISSINGPROJECTID": "Missing project id. Go back to ",
         "IFPERSISTENT": "If this keeps happening, please ",
